@@ -1,5 +1,7 @@
 ![NDC-NDC](https://raw.githubusercontent.com/ndcwallet/ndc-site/master/assets/img/ndc-logo.png)
-A P2P Digital Cryptocurrency Wallet by NDC Wallet
+
+
+### A P2P Digital Cryptocurrency Wallet by NDC Wallet
 
 
 --------------------
